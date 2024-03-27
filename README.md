@@ -1,9 +1,9 @@
 # NVIDIA-Courses: Augmenting-LLMs-Using-Retrieval-Augmented-Generation
 
-This Repository contains the study materials for LLMs
-Access the course from here: https://courses.nvidia.com/courses/course-v1:NVIDIA+S-FX-16+v1/course/
+This Repository contains the study materials for LLMs.
+- Access the course from here: https://courses.nvidia.com/courses/course-v1:NVIDIA+S-FX-16+v1/course/
 
-Step-by-step Images for the course: 
+- Step-by-step Images for the course: 
 
 ![1 ) Canonical RAG Workflow](https://github.com/kuxall/NVIDIA-Courses-Augmenting-LLMs-Using-Retrieval-Augmented-Generation/assets/37800177/da8bbcfc-8dd7-45be-b3b4-61cfe49c0c60)
 ![2 ) Agent RAG](https://github.com/kuxall/NVIDIA-Courses-Augmenting-LLMs-Using-Retrieval-Augmented-Generation/assets/37800177/b0be0aa3-113c-4571-bab6-ed2dd50ca24f)
